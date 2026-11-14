@@ -12,11 +12,11 @@ Mentor at [rs.school](https://rs.school). Open to tech talks.
 
 ## 🌱 What I'm Doing
 
-- **Exploring agentic AI systems** — multi-agent architectures and how they reshape product development
-- **Building MCP servers** and AI-powered dev workflows
-- **Self-hosting infrastructure** for startup projects
+- **Go performance deep dives**: profiling with pprof, load testing with k6, tuning hot paths
+- **Building MCP servers** and tooling for AI coding agents
+- **Exploring agentic AI systems**: multi-agent architectures in real engineering workflows
+- **Running a self-hosted Linux homelab** to go deeper into systems engineering
 - **Mentoring developers** and running tech meetups at rs.school
-- **Building my own products** end-to-end — from idea to ship
 
 ---
 
@@ -29,10 +29,7 @@ Mentor at [rs.school](https://rs.school). Open to tech talks.
 
 ## 💡 Random Facts
 
-- In IT since 2010 — watched the field change a few times
-- Watched jQuery die. And Smarty. And Flash. Still here.
-- Remember when "AJAX" was a buzzword and IE6 was the enemy
-- Survived the PHP4 → PHP5 migration. And PHP5 → PHP7. And… you get it.
+- In IT since 2010, watched the field change a few times
 - Wrote production code in an era when "deploy" meant FTP
 - Coffee-driven development since before it was a meme
 
