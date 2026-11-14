@@ -1,12 +1,12 @@
 # Vladimir Yakovlev 👋
 
-🚀 **Full-stack Engineer & Tech Lead** | 🤖 **AI-native Builder**
+**Backend Engineer (Go)** | **High-load Systems** | **AI Agents Tooling**
 
-> Building products at the intersection of code and AI agents.
+I build scalable, reliable backend systems: 15+ years in engineering, the last 7 in high-load payments and iGaming (250K+ RPM, 100TB+ data, 400+ payment providers).
 
-Started as a frontend coder, grew into full-stack, then spent the last 6 years leading engineering teams. Now I'm building my own products — solo and with small teams — using AI as a force multiplier across the whole stack: design, code, infra, content.
+In my spare time I build open source tools for AI coding agents in Go, like [tidemark](https://github.com/yakovlef/tidemark): searchable memory for agent history over MCP.
 
-Mentor at [rs.school](https://rs.school) — running courses and meetups. Open to public speaking and tech talks.
+Mentor at [rs.school](https://rs.school). Open to tech talks.
 
 ---
 
